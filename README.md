@@ -1,4 +1,0 @@
-foobaz
-======
-
-Just screwing around
